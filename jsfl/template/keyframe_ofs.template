@@ -1,0 +1,3 @@
+        {
+            skin = "[skin]", name = "[name]", idx = [idx], tw = [tw], blend = "[blend]", alpha = [alpha],
+            x = [x], y = [y], r = [r], sx = [sx], sy = [sy], tx = [tx], ty = [ty], },
